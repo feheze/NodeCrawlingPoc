@@ -1,2 +1,3 @@
 # NodeCrawlingPoc
-Exemple for studying Crawling with node.
+Exemple for studying Crawling with NodeJS. =)!!!
+#
